@@ -3,7 +3,7 @@
 ## Getting Started
 Open a terminal window from the root directory of this repo and run
 ````
-npm install && npm run build && npm run dev
+npm install && npm run dev
 ````
 
 ### Features

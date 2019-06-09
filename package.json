@@ -4,7 +4,6 @@
   "description": "a react-webpack boiler plate feature hot reloading",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode production",
     "dev": "webpack-dev-server --open"
   },
   "author": "",

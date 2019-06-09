@@ -1,0 +1,11 @@
+# Always ignore your node_modules, dudes and dudesses!
+/node_modules
+
+# The usual trouble makers
+.DS_STORE
+
+# Just in case you forget to ignore your secrets
+.env
+
+# This one is for real gangsters only
+package-lock.json
